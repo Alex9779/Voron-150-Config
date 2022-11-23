@@ -12,7 +12,7 @@ set global.zpinname = "^io5.in" ; < edit leaving quotes
 
 ; ---------- Coordinates ----------
 ; THIS IS THE DISTANCE FROM THE BODY OF THE CLICKY PROBE TO IT'S OWN TRIGGER POINT
-set global.klickyoffset = 0.600 ; larger values here means nozzle closer to the bed after autoz
+set global.klickyoffset = 0.575 ; larger values here means nozzle closer to the bed after autoz
 
 ; THIS IS THE ABSOLUTE X LOCATION OF THE MECHANICAL Z PIN
 set global.zpinx = {global.ZEndstopX}
